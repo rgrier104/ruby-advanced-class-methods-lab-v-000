@@ -59,5 +59,5 @@ class Song
     song.name = new_filename[1].strip
     song.artist_name = new_filename[0].strip
     song
-
+  end
 end
